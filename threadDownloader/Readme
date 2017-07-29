@@ -1,6 +1,6 @@
 Hello everyone.
 
-The two file has a tiny AWT software which makes use of:
+The two-file tiny AWT software which makes use of:
 1) Java 8's Lambda Expressions to invoke the overloaded run() method of Runnable class.
 2) Utilizes the major thread functions in Java 7.
 3) The example provides very good understanding of synchronization in Java.
